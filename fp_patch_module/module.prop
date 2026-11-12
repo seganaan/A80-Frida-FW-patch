@@ -1,0 +1,6 @@
+id=galaxy_a80_fp_patch
+name=Galaxy A80 Fingerprint HAL Bypass
+version=1.0
+versionCode=1
+author=Sega
+description=Systemless overlay override for ET713 fingerprint sensor calibration mismatch.
